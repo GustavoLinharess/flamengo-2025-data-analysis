@@ -37,20 +37,6 @@ API → Python → Estruturação dos dados → Power BI.
 - 27 gols sofridos
 - Média aproximada de 2 gols por jogo
 
-## Dashboard
 
-### Visão geral
-
-![Dashboard](images/dashboard_geral.png)
-
-### Desempenho casa vs fora
-
-![Casa Fora](images/casa_fora.png)
-
-### Linha do tempo da campanha
-
-![Linha do tempo](images/linha_tempo.png)
-
-## Próximos passos
 
 Evoluir o projeto para análises de múltiplas temporadas e ligas completas utilizando um pipeline com SQL.
